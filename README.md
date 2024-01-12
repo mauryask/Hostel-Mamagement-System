@@ -1,2 +1,2 @@
 # Hostel-Mamagement-System
- Cross-Platform Desktop Application Based On Java Swing And MySql.
+ Desktop application based On Java Swing And MySql.
